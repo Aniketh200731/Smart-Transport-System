@@ -1,0 +1,11 @@
+Trip_ID,Passenger_ID,Source,Destination,Distance_KM,Travel_Time_Min,Fare
+1,101,Hyderabad,Secunderabad,15,35,150
+2,102,Hyderabad,Kukatpally,12,30,120
+3,103,Secunderabad,Uppal,18,40,180
+4,104,Kukatpally,Gachibowli,10,25,100
+5,105,Uppal,Habsiguda,8,20,80
+6,106,Gachibowli,Madhapur,7,18,70
+7,107,Hyderabad,LB_Nagar,20,45,200
+8,108,Madhapur,Kondapur,6,15,60
+9,109,Uppal,Secunderabad,16,38,160
+10,110,Kukatpally,Miyapur,9,22,90
